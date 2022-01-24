@@ -1,6 +1,8 @@
 Inicio{
-    
+
 Algoritmo 1
+
+Mais Algoritmo
 
 }
 Fim
