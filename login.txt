@@ -1,6 +1,7 @@
 Inicio{
 
     Cadastro
+    Usuario e Senha
 
 }
 Fim
