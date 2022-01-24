@@ -1,0 +1,6 @@
+Inicio{
+    
+Algoritmo 1
+
+}
+Fim
